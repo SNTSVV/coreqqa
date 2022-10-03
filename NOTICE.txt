@@ -1,0 +1,17 @@
+"COREQQA" is © 2022 University of Luxembourg
+and is distributed under the MIT license.
+
+Authors:
+  	
+	Sallam ABUALHAIJA <sallam.abuahaija@uni.lu>
+	Chetan Arora
+	Lionel BRIAND 
+
+Paper:
+  - "Automated Question Answering for Improved Understanding of Compliance Requirements: A Multi-Document Study", RE 2022
+
+"MAANA" includes the following open source components:
+	- Binaries of textdistance
+	- Binaries of nltk, transformers, sentence_transformers under Apache License
+	- Binaries of pandas, numpy, scikit-learn under BSD License
+	- Binaries of docx under MIT license
